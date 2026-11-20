@@ -11,4 +11,4 @@ tạo branch, merge và pull request.
 
 ## Tác giả
 Teo Van Khang
-Dự án được thực hiện bởi nhóm A.
+Dự án được thực hiện bởi nhóm A và nhóm B.
